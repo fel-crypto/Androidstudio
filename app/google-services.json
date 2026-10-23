@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524013260708",
+    "project_id": "morefilms-ad3c6",
+    "storage_bucket": "morefilms-ad3c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524013260708:android:33d3bcd6e7eae96f623b31",
+        "android_client_info": {
+          "package_name": "com.beta.morefilms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuStwHL96leLwZqtZeQ9luQqfW8b-Yk0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

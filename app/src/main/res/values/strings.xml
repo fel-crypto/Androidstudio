@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MoreFilms</string>
+    <string name="subtitle_app">Tu red social cinematográfica</string>
+
+    <!-- Login Strings -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="email_hint">Correo Electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_prompt">¿No tienes cuenta? Regístrate aquí</string>
+
+    <!-- Register Strings -->
+    <string name="register_title">Crear Cuenta</string>
+    <string name="confirm_password_hint">Confirmar Contraseña</string>
+    <string name="login_prompt">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Feed Strings -->
+    <string name="feed_title">MoreFilms</string>
+    <string name="like_button">Me gusta</string>
+    <string name="comment_button">Comentar</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_explore">Explorar</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Sample Data Strings -->
+    <string name="sample_movie_1">Inception (El Origen)</string>
+    <string name="sample_author_1">por Christopher Nolan</string>
+    <string name="sample_desc_1">Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños, se le da la tarea inversa de plantar una idea en la mente de un C.E.O.</string>
+    <string name="sample_movie_2">Pulp Fiction</string>
+    <string name="sample_author_2">por Quentin Tarantino</string>
+    <string name="sample_desc_2">Las vidas de dos asesinos a sueldo, un boxeador, la esposa de un gángster y dos bandidos de cafetería se entrelazan en cuatro historias de violencia y redención.</string>
+</resources>
